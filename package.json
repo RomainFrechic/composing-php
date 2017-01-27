@@ -1,0 +1,19 @@
+{
+  "name": "composing-php",
+  "version": "1.0.0",
+  "description": "A l'aide de la libraire [League\\CSV](http://csv.thephpleague.com/) vous devrez charger le fichier `cs_figures.csv` puis afficher chacune des ligne sous forme de `card` incluses dans semantic ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomainFrechic/composing-php.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainFrechic/composing-php/issues"
+  },
+  "homepage": "https://github.com/RomainFrechic/composing-php#readme"
+}
